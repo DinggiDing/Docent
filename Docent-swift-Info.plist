@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Cafe24Simplehae.ttf</string>
+		<string>Cafe24Ohsquareair.ttf</string>
+		<string>SUIT-ExtraLight.otf</string>
+		<string>SUIT-Light.otf</string>
+		<string>SUIT-Thin.otf</string>
+		<string>SUIT-Bold.otf</string>
+		<string>Cafe24Oneprettynight.ttf</string>
+		<string>SUIT-Regular.otf</string>
+		<string>RIDIBatang.otf</string>
+		<string>SDMiSaeng.ttf</string>
+		<string>bareunhippi.ttf</string>
+		<string>UhBee jung.ttf</string>
+	</array>
+</dict>
+</plist>

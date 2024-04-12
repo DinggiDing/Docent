@@ -1,0 +1,402 @@
+[
+ {
+  "tone": "Formal",
+  "sent": "좋은 아침이에요, 오늘 어떻게 지내세요?"
+ },
+ {
+  "tone": "Formal",
+  "sent": "오늘 하루도 즐겁게 보내시길 바랍니다."
+ },
+ {
+  "tone": "Formal",
+  "sent": "좋은 아침이에요, 잘 지내길 바래요"
+ },
+ {
+  "tone": "Formal",
+  "sent": "좋은 아침되세요!"
+ },
+ {
+  "tone": "Formal",
+  "sent": "좋은 하루 보내세요!"
+ },
+ {
+  "tone": "Formal",
+  "sent": "안녕하세요, 좋은 아침입니다."
+ },
+ {
+  "tone": "Formal",
+  "sent": "오늘 하루도 행복하세요!"
+ },
+ {
+  "tone": "Formal",
+  "sent": "오늘은 당신에게 아름다운 날이었으면 좋겠어요"
+ },
+ {
+  "tone": "Formal",
+  "sent": "안녕하세요."
+ },
+ {
+  "tone": "Formal",
+  "sent": "새로운 하루에 좋은 아침이 되었으면 합니다."
+ },
+ {
+  "tone": "InFormal",
+  "sent": "안녕!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "좋은 아침이에요!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "오늘 아침 어떻게 지내세요?"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "좋은 아침 되세요!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "안녕하세요!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "잠은 어땠어요?"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "오늘 하루도 즐겁게 보내길 바래!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "좋은 아침이야!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "좋은 아침!"
+ },
+ {
+  "tone": "InFormal",
+  "sent": "어서오세요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "앞으로 멋진 하루 보내길 바래!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "좋은 하루 보내길 바래!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "오늘 하루도 잘 지내길 바랄게!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "좋은 하루 되세요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "당신은 멋진 하루를 보낼 자격이 있어요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "오늘 하루 즐겁게 보내세요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "좋은 아침이야, 멋있네!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "멋진 하루 보내길 바래!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "좋은 하루 보내길!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "오늘 하루도 화이팅!"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘이 어제보다 낫기를 바래요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘은 무슨 일이 일어날지 궁금해"
+ },
+ {
+  "tone": "Worried",
+  "sent": "아침 일찍 일어나셨나요?"
+ },
+ {
+  "tone": "Worried",
+  "sent": "너무 스트레스 받지 않았으면 좋겠어요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘 모든 것들을 끝낼 수 있기를 바래요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘은 집중해야겠다"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘은 좋은 날이 될 거에요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "충분한 휴식을 취하기를 바래요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "무리하지 않았으면 좋겠어요"
+ },
+ {
+  "tone": "Worried",
+  "sent": "오늘 하루 잘 지내길 바래요"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "좋은 아침이에요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 아침은 어때요?"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 하루도 즐겁게 보내시길 바랍니다."
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 행운을 빌어요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 즐겁게 보내세요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 하기로 한 모든 것을 성취하기를 바래요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘은 좋은 일만 가득하길 바랄게요"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 하루를 즐기세요."
+ },
+ {
+  "tone": "Friendly",
+  "sent": "하루가 시작되었어요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "아침 식사는 했어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "잘 잤어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "날씨가 참 좋군요, 그렇죠?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "일찍 일어나셨네요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "안녕하세요? 오늘은 어떠세요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "좋은 아침이에요! 오늘은 어때요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "좋은 아침되세요! 오늘 날씨 어때요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "안녕하세요? 오늘은 기분 어때요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "좋은 아침이에요! 오늘은 어떻게 지내실건가요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "오늘 아침은 어때요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "안녕하세요?"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "하루 시작하시는 군요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "좋은 아침이에요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "이제 일어나서 하루를 맞이할 시간이야!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "일어나서 커피 냄새를 맡아보세요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "일어나서 움직일 시간이에요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘을 시작합시다!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 행운을 빌어요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "일어나서 하루를 시작하세요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 하루도 즐겁게 보내길 바래!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘을 멋진 날로 만들어요!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "좋은 아침이에요! 오늘 하루도 즐겁게 보내시길 바랍니다"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "오늘 하루도 즐겁게 보내시길 바랍니다."
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "새로운 날이에요! 새롭게 시작해봐요"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "멋진 하루 보내세요!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "하루 시작하는구나~"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "어제보다 더 좋은 하루가 되길"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "하루가 시작되네"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "새로운 하루가 시작되네요"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "이제 하루를 시작할 시간이에요"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "행복과 기쁨이 가득한 하루 되시길 바랍니다."
+ },
+ {
+  "tone": "Surprised",
+  "sent": "와, 벌써 아침이라니 믿을 수가 없어."
+ },
+ {
+  "tone": "Surprised",
+  "sent": "너무 늦게 잤는데 벌써 아침이라니 믿을 수가 없어."
+ },
+ {
+  "tone": "Surprised",
+  "sent": "너무 졸려, 아침이라니 믿을 수가 없어."
+ },
+ {
+  "tone": "Surprised",
+  "sent": "좋은 아침이에요! 너 오늘 일찍 일어났구나!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "와, 너 일찍 일어났구나! 좋은 아침!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "네가 그렇게 일찍 일어나다니 믿을 수가 없어!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "좋은 아침이에요! 이렇게 일찍 만날 줄이야!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "네가 일어나서 돌아다니는 걸 보니 기뻐! 좋은 아침!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "이렇게 이른 아침에 너를 보니 정말 반가워! 좋은 아침!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "매일 아침 이렇게 일찍 일어나세요? 좋은 아침!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 하루 되시길 바랍니다."
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "아름다운 아침이에요! 좋은 하루 되시길 바랍니다."
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 아침이에요! 환상적인 하루를 보내길 바래요"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 아침! 놀라운 날을 기대하고 있어요"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 아침이에요, 해가 떴어요."
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "새로운 하루를 시작할 시간이에요"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 아침, 좋은 하루 보내길 바래!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "오늘 하루도 즐겁게 보내길 바래!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "오늘 하루도 즐겁게 보내시길 바랍니다."
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 하루 되세요!"
+ }
+]

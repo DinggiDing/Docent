@@ -1,0 +1,362 @@
+[
+  {
+    "tone": "Formal",
+    "sent": "좋은 저녁이에요, 환영합니다"
+  },
+  {
+    "tone": "Formal",
+    "sent": "오늘 하루도 즐겁게 보내셨기를 바랍니다."
+  },
+  {
+    "tone": "Formal",
+    "sent": "좋은 저녁입니다, 즐겁게 지내시길 바랍니다."
+  },
+  {
+    "tone": "Formal",
+    "sent": "오늘 저녁 함께해 주셔서 감사합니다."
+  },
+  {
+    "tone": "Formal",
+    "sent": "오늘 저녁에 와주셔서 기쁩니다."
+  },
+  {
+    "tone": "Formal",
+    "sent": "안녕하세요, 오늘 저녁 어떠세요?"
+  },
+  {
+    "tone": "Formal",
+    "sent": "즐거운 저녁 시간 되시길 바랍니다."
+  },
+  {
+    "tone": "Formal",
+    "sent": "오늘 하루 잘 보내셨나요?"
+  },
+  {
+    "tone": "Formal",
+    "sent": "좋은 밤 되세요."
+  },
+  {
+    "tone": "Formal",
+    "sent": "좋은 꿈 꾸세요."
+  },
+  {
+    "tone": "Informal",
+    "sent": "좋은 저녁이야!"
+  },
+  {
+    "tone": "Informal",
+    "sent": "오늘 저녁 잘 지내길 바래"
+  },
+  {
+    "tone": "Informal",
+    "sent": "즐거운 밤 되시길 바랍니다."
+  },
+  {
+    "tone": "Informal",
+    "sent": "좋은 시간 보내세요!"
+  },
+  {
+    "tone": "Informal",
+    "sent": "오늘 밤 뭐 할거야?"
+  },
+  {
+    "tone": "Informal",
+    "sent": "좋은 저녁이야!"
+  },
+  {
+    "tone": "Informal",
+    "sent": "즐거운 저녁 시간 보내시길 바랍니다."
+  },
+  {
+    "tone": "Informal",
+    "sent": "저녁 시간 잘 보내고 있어요?"
+  },
+  {
+    "tone": "Informal",
+    "sent": "즐거운 저녁시간 보내길 바래!"
+  },
+  {
+    "tone": "Informal",
+    "sent": "좋은 꿈 꾸고 좋은 저녁 보내!"
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "안녕하세요! 다시 만나서 정말 반가워요."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "저녁에 당신을 보는 것은 언제나 즐겁습니다."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "멋진 저녁 보내세요!"
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "즐거운 저녁 시간 되시길 바랍니다."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "오늘 저녁에 와주셔서 정말 기쁩니다."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "안녕하세요! 즐거운 밤 되시길 바랍니다."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "안녕하세요! 오늘 저녁 잘 지내시길 바랍니다."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "안녕! 좋은 저녁시간 보내길 바래."
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "오늘 저녁 잘 지내길 바래!"
+  },
+  {
+    "tone": "Optimistic",
+    "sent": "좋은 저녁 보내세요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "좋은 저녁 보내세요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "즐거운 저녁 보내세요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "멋진 저녁 시간 보내길 바래!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "좋은 꿈 꾸세요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "안녕하세요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "좋은 저녁 보내길 바래!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "멋진 밤 보내길 바래!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "아름다운 저녁 시간 보내시길 바랍니다!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "남은 밤을 즐겨요!"
+  },
+  {
+    "tone": "Friendly",
+    "sent": "좋은 저녁 보내!"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 저녁에 뭐 할 거에요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 뭐 했어요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 무엇이 당신을 행복하게 했나요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "새로운 일이 있었어요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "안녕하세요! 오늘 저녁 기분은 어때요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "저녁은 잘 보내고 있나요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 밤에 무슨 재미있는 일 있어요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 하루 어땠어요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "안녕하세요! 오늘 뭐하고 지냈어요?"
+  },
+  {
+    "tone": "Curious",
+    "sent": "오늘 무슨 생각을 하고 있었어요?"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "좋은 저녁이에요!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "오늘 저녁 어땠어요?"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "즐거운 저녁 보내세요!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "안녕히 주무세요!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "오늘 밤은 푹 자요!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "좋은 밤 되세요!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "다시 오신 것을 환영합니다!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "오늘 밤 준비됐나요?"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "오늘 저녁 너무 좋아!"
+  },
+  {
+    "tone": "Assertive",
+    "sent": "정말 멋진 저녁이네요!"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "안녕하세요! 즐거운 저녁 시간 보내시길 바랍니다."
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "좋은 밤 되시길 바래요."
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "좋은 저녁 보내!"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "즐거운 저녁 시간 보내고 계시길 바래요"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "하고 싶었던 일은 다 끝냈나요?"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "오늘 밤 정말 멋져 보여!"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "네가 와서 기뻐!"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "만나서 반가워요!"
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "편안한 밤을 보낼 자격이 있어요."
+  },
+  {
+    "tone": "Encouraging",
+    "sent": "잘자고 좋은 꿈 꿔"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "벌써 저녁이라니 놀랍네요!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "재미있게 놀면 시간이 정말 빨리 가네!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "하루가 이렇게 빨리 지나가다니 믿을 수가 없어!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "벌써 저녁이라니 충격이야!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "와, 벌써 저녁이야! 시간이 참 빠르네요!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "벌써 저녁이라니! 오늘은 어디로 간거지.."
+  },
+  {
+    "tone": "Surprised",
+    "sent": "하루가 너무 빨리 지나갔어!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "즐거운 저녁 보내!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "와, 저녁에 오셨군요!"
+  },
+  {
+    "tone": "Surprised",
+    "sent": "벌써 저녁이에요? 깜짝 놀랐어!"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "안녕! 환상적인 저녁 시간을 보내길 바래!"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "안녕하세요! 오늘 저녁 즐거운 시간 보내세요"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "좋은 저녁 되세요"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "좋은 밤 되세요, 그리고 멋진 저녁 되세요"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "저녁 드시면서 즐거운 시간 보내세요!"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "안녕! 좋은 저녁시간 보내길 바래."
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "좋은 저녁시간 보내길 바래"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "생산적인 하루를 보냈나요? 좋은 저녁 되세요!"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "편안한 저녁 시간 보내세요"
+  },
+  {
+    "tone": "Cooperative",
+    "sent": "안녕히 주무세요, 아침에 봐요."
+  }
+]

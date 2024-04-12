@@ -1,0 +1,254 @@
+[
+ {
+  "tone": "Formal",
+  "sent": "좋은 오후에요, 잘 지내세요?"
+ },
+ {
+  "tone": "Formal",
+  "sent": "좋은 하루 보내시길 바랍니다."
+ },
+ {
+  "tone": "Formal",
+  "sent": "오늘 오후는 어떻게 지내세요?"
+ },
+ {
+  "tone": "Formal",
+  "sent": "지금까지 하루를 잘 즐기고 있나요?"
+ },
+ {
+  "tone": "Formal",
+  "sent": "생산적인 하루를 보내고 있기를 바래요"
+ },
+ {
+  "tone": "Formal",
+  "sent": "즐거운 오후 되시길 바랍니다"
+ },
+ {
+  "tone": "Formal",
+  "sent": "즐거운 오후 되세요!"
+ },
+ {
+  "tone": "Informal",
+  "sent": "오후는 어때?"
+ },
+ {
+  "tone": "Informal",
+  "sent": "즐거운 점심시간 보내길 바래!"
+ },
+ {
+  "tone": "Informal",
+  "sent": "안녕, 오후는 어때?"
+ },
+ {
+  "tone": "Informal",
+  "sent": "오후는 어떻게 보내고 있어?"
+ },
+ {
+  "tone": "Informal",
+  "sent": "좋은 오후 보내고 있길 바래!"
+ },
+ {
+  "tone": "Informal",
+  "sent": "안녕! 오늘 뭐하고 지냈어?"
+ },
+ {
+  "tone": "Informal",
+  "sent": "좋은 오후입니다!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "산책하기 딱 좋은 오후네요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "남은 하루가 기대돼요"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "즐거운 오후를 보내고 계시길 바래요"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "아름다운 오후가 되고 있어요!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "즐거운 오후가 되길 바래!"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "생산적인 오후를 보내고 계시길 바래요"
+ },
+ {
+  "tone": "Optimistic",
+  "sent": "오늘 하고 싶었던 일을 다 할 수 있길 바랍니다"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "좋은 오후입니다!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "오늘 오후에는 좋은 일만 가득하세요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "편안한 오후를 보내길 바래!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "즐거운 오후 되세요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "안녕!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "반가워요!"
+ },
+ {
+  "tone": "Friendly",
+  "sent": "행복한 오후!"
+ },
+ {
+  "tone": "Curious",
+  "sent": "안녕! 오늘 오후 어떻게 지내니?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "안녕하세요! 오늘 하루 어떻게 보내고 있어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "오늘 뭐하고 지냈어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "오후는 어땠어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "오늘 하루 어떻게 보내고 있어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "오늘 오후에 뭐하고 지냈어요?"
+ },
+ {
+  "tone": "Curious",
+  "sent": "하고 싶었던 일은 다 끝냈나요?"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "안녕하세요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 오후는 어떠세요?"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "좋은 하루 보내길 바래!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 뭐하고 지냈어요?"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 남은 일정은 어떻게 되나요?"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "편안한 오후 보내길 바래요!"
+ },
+ {
+  "tone": "Assertive",
+  "sent": "오늘 뭐 재미있는 일 있어요?"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "오늘 지금까지 잘 하고 있어요!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "오후를 어떻게 보내고 있나요?"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "즐거운 오후 보내세요! 자격이 있어!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "나는 너의 오후가 너처럼 멋있기를 바래!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "남은 오후 시간 즐겁게 보내세요! 잘하고 있어요!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "오늘 오후에 즐거운 시간 보내길 바래!"
+ },
+ {
+  "tone": "Encouraging",
+  "sent": "환상적인 하루를 보내고 있기를 바래!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "어서오세요!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "와, 왔구나!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "여기서 당신을 만날 줄은 몰랐어요!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "오늘 오후에 너를 만나서 정말 기뻐!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "정말 아름다운 오후군요!"
+ },
+ {
+  "tone": "Surprised",
+  "sent": "네가 와줘서 무척 기뻐."
+ },
+ {
+  "tone": "Surprised",
+  "sent": "벌써 오후라니 믿을 수가 없어!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "오후는 어때?"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "즐거운 오후를 보내고 계시길 바랍니다."
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "당신이 편안한 오후를 보내고 있기를 바래요"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "만나서 반가워요!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "뭐하고 지냈어요?"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "좋은 하루 보내길 바래!"
+ },
+ {
+  "tone": "Cooperative",
+  "sent": "즐거운 오후 되세요!"
+ }
+]
